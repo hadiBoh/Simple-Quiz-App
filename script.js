@@ -86,7 +86,7 @@ startBtn.addEventListener("click",()=>{
             <p>2. dont try to cheate</p>
             <p>3. dont even think about cheating</p>
             <p>4. I said dont </p>
-            <p>5. Ok do what the hell you want</p>
+            <p>5. Ok do whatever you want</p>
         </div>
         <footer class="rules-footer">
             <button onclick="startGame()" class="firstNext">next</button>
